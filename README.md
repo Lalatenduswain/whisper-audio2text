@@ -127,16 +127,16 @@ This script is provided as-is and may require modifications or updates based on 
 
 Encountering issues or have suggestions? Submit them here:
 
-👉 [GitHub Issues](https://github.com/Lalatenduswain/whisper-audio2text.sh/issues)
+👉 [GitHub Issues](https://github.com/Lalatenduswain/whisper-audio2text/issues)
 
 ---
 
 ## 📦 Repository Info
 
-**Git URL:** [https://github.com/Lalatenduswain/whisper-audio2text.sh](https://github.com/Lalatenduswain/whisper-audio2text.sh)
+**Git URL:** [https://github.com/Lalatenduswain/whisper-audio2text](https://github.com/Lalatenduswain/whisper-audio2text)
 
 Please clone it from:
 
 ```bash
-git clone https://github.com/Lalatenduswain/whisper-audio2text.sh
+git clone https://github.com/Lalatenduswain/whisper-audio2text
 ```
